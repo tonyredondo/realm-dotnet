@@ -4,6 +4,7 @@ Realm is a mobile database that runs directly on phones, tablets or wearables.
 
 This repository holds the source code for the .NET / C# versions of Realm. Currently, we support all major mobile and desktop operating systems, such as iOS, Android, UWP, macOS, Linux, and Windows. For a full list of supported platforms and their versions, check out the [Supported Platforms](https://docs.mongodb.com/realm/dotnet/#supported-platforms) sub-section in the documentation.
 
+
 ## Features
 
 * **Mobile-first:** Realm is the first database built from the ground up to run directly inside phones, tablets, and wearables.
